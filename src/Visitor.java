@@ -10,7 +10,7 @@ public interface Visitor {
 	
 	public void visitSectiune (Sectiune sect);
 	
-	
+	public String toString();
 	
 
 }
